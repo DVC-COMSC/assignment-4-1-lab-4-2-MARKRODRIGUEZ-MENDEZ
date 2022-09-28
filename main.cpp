@@ -1,6 +1,7 @@
 
 //?  [Problem Definition]
-//*        A software company sells a package that retails for $99. Quantity discounts are given
+//*        A software company sells a package that retails for $99. Quantity
+//discounts are given
 //*        according to the following table.
 //*                Quantity                 Discount Percent
 //*                10 - 19                        20%
@@ -11,6 +12,7 @@
 //*  computes the total cost of the purchase.
 //** Input Validation : Input must be a positive integer.
 //**    If we have negative input, just quit the program.
+
 #include <iomanip>
 #include <iostream>
 using namespace std;
